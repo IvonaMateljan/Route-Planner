@@ -63,8 +63,6 @@ vector<vector<float>> buildDistanceMatrix(
             if(i == j) continue;
             int endNode = graph.getIndexByOSMId(selected[j].nearestNode);
             distanceMatrix[i][j] = result[i].dist[endNode];
-            // cout << "Distance from " << selected[i].name << 
-            // " to " << selected[j].name << " is: " << result[i].dist[endNode] <<"\n";
         }
     }
 
