@@ -82,7 +82,7 @@ python ./python/visualize.py
 Generates:
 - `route_with_sights.html`
 
-Example route is shown on the screenshot bellow:
+Example route is shown on the screenshot below:
 
 <img width="564" height="526" alt="image" src="https://github.com/user-attachments/assets/41d5c8e4-28f6-4b53-9ba7-8b9cf9351b0f" />
 
